@@ -26,8 +26,6 @@ Simulated data:
 - **Top clients**: Based on total expenditure.
 - **Exported data**: Prepared CSVs for dashboarding.
 
-Notebook available [here](./bank_simulated.html).
-
 ---
 
 ## 📊 Dashboard (Power BI)
@@ -38,7 +36,8 @@ Built with exported CSVs, includes:
 3. Top clients by spending.
 4. Distribution by account type and region.
 
-Preview (PDF): [Dashboard PDF](./bank_simulated_dashboard.pdf)
+Preview (PDF): 
+<img width="1560" height="874" alt="Screenshot 2025-07-27 162241" src="https://github.com/user-attachments/assets/3274e3da-52d2-438b-b698-08b0e2fa355e" />
 
 ---
 
@@ -67,8 +66,4 @@ Preview (PDF): [Dashboard PDF](./bank_simulated_dashboard.pdf)
 
 ---
 
-## 🧠 Level of Project
 
-🎓 **Intermediate level**
-- Shows solid understanding of EDA, customer segmentation, and dashboarding.
-- Ideal for data analyst or junior data scientist portfolio.
