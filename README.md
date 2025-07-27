@@ -58,12 +58,5 @@ Preview:
 
 ---
 
-## 🚀 How to Reproduce
-
-1. Clone repo
-2. Run `bank_simulated.html` notebook (or view in browser)
-3. Use exported CSVs to build your own dashboard in Power BI
-
----
 
 
