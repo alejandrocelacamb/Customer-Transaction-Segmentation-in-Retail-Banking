@@ -36,7 +36,7 @@ Built with exported CSVs, includes:
 3. Top clients by spending.
 4. Distribution by account type and region.
 
-Preview (PDF): 
+Preview: 
 <img width="1560" height="874" alt="Screenshot 2025-07-27 162241" src="https://github.com/user-attachments/assets/3274e3da-52d2-438b-b698-08b0e2fa355e" />
 
 ---
